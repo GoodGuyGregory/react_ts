@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import {Login, Name, Picture} from '../App';
+import {Login, Name, Picture} from '../App.types';
 
 interface UserProps {
     picture: Picture
